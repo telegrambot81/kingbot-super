@@ -873,7 +873,7 @@ return {
         '^[!/#](muteall)$',
         '^[!/#](muteall) (.*)$',
         '^[!/#](unmuteall)$',
-        '^[!#](link)$',
+        '^[#](link)$',
         '^[!/#](newlink)$',
         '^[!/#](tosupergroup)$',
         '^[!/#](setdescription) (.*)$',
