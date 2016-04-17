@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'king Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return ' 👑 king Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @Oo_mehdi_shar_khoffash_revale_oO\nSupport: \nChannels: @kingbot_team\n\nCheckout: \nGNU GPL v2 license.'
 end
 
 return {
